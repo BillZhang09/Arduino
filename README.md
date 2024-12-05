@@ -1,4 +1,4 @@
 # Arduino
 Arduino programs
 
-Develop by Arduino Mega2560
+Develop with Arduino Mega2560
